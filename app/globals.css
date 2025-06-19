@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  margin: 0;
+}
+textarea {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 10px;
+}
+select, video {
+  width: 100%;
+  margin-top: 10px;
+}
